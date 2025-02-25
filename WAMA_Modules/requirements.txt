@@ -1,0 +1,11 @@
+efficientnet_pytorch==0.7.1
+einops==0.6.0
+inplace_abn==1.1.0
+pretrainedmodels==0.7.4
+prettytable==3.6.0
+
+setuptools
+timm
+tqdm
+transformers
+
